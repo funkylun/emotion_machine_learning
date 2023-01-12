@@ -1,0 +1,91 @@
+hc vs ad
+accuracy_list is [0.25, 0.375, 0.625, 0.375, 0.625, 0.75, 0.75, 0.5, 1.0, 0.875]
+K fold average loss: 1.5227504193782806
+K fold max accuracy: 100.0%
+K fold mean accuracy: 61.25%
+K fold std accuracy: 22.67%
+
+accuracy_list is [0.25, 0.375, 0.625, 0.5, 0.75, 0.625, 0.75, 0.5, 0.75, 0.75]
+K fold average loss: 1.6500208616256713
+K fold max accuracy: 75.0%
+K fold mean accuracy: 58.75%
+K fold std accuracy: 16.82%
+
+accuracy_list is [0.5, 0.625, 0.625, 0.625, 0.5, 0.75, 0.75, 0.625, 0.75, 0.5]
+K fold average loss: 2.688039022684097
+K fold max accuracy: 75.0%
+K fold mean accuracy: 62.5%
+K fold std accuracy: 9.68%
+
+accuracy_list is [0.125, 0.375, 0.75, 0.375, 0.75, 0.75, 0.75, 0.5, 0.75, 0.75]
+K fold average loss: 1.5227414935827255
+K fold max accuracy: 75.0%
+K fold mean accuracy: 58.75%
+K fold std accuracy: 21.69%
+
+accuracy_list is [0.1786, 0.3273, 0.7273, 0.8, 0.6909, 0.8182, 0.8364, 0.6182, 0.7818, 0.8545]
+K fold average loss: 0.7248107126316466
+K fold max accuracy: 85.45%
+K fold mean accuracy: 66.33%
+K fold std accuracy: 21.86%
+
+accuracy_list is [0.1429, 0.4364, 0.7455, 0.7818, 0.7091, 0.8, 0.8182, 0.5455, 0.7273, 0.7455]
+K fold average loss: 0.7281343584323858
+K fold max accuracy: 81.82%
+K fold mean accuracy: 64.52%
+K fold std accuracy: 20.23%
+
+
+================================
+================================
+hc vs mci
+
+accuracy_list is [0.069, 0.2586, 0.1207, 0.1207, 0.4483, 0.9655, 0.431, 0.4138, 0.4138, 0.7368]
+K fold average loss: 0.9142316186745385
+K fold max accuracy: 96.55%
+K fold mean accuracy: 39.78%
+K fold std accuracy: 26.88%
+
+accuracy_list is [0.1379, 0.2414, 0.1207, 0.1034, 0.4828, 0.9483, 0.5345, 0.4828, 0.569, 0.6491]
+K fold average loss: 0.873314445534765
+K fold max accuracy: 94.83%
+K fold mean accuracy: 42.7%
+K fold std accuracy: 25.99%
+
+
+accuracy_list is [0.0, 0.2222, 0.2222, 0.0, 0.6667, 0.5556, 0.375, 0.375, 0.375, 0.5]
+K fold average loss: 1.19095476269722
+K fold max accuracy: 66.67%
+K fold mean accuracy: 32.92%
+K fold std accuracy: 20.98%
+
+
+==============================
+==============================
+mci vs ad
+
+accuracy_list is [0.1111, 0.6667, 0.3333, 0.6667, 0.2222, 0.6667, 0.625, 0.375, 0.5, 0.75]
+K fold average loss: 1.2403699934482575
+K fold max accuracy: 75.0%
+K fold mean accuracy: 49.17%
+K fold std accuracy: 20.8%
+
+
+accuracy_list is [0.0339, 0.4915, 0.678, 0.7797, 0.3898, 0.6271, 0.661, 0.4576, 0.5517, 0.569]
+K fold average loss: 0.8043629235722459
+K fold max accuracy: 77.97%
+K fold mean accuracy: 52.39%
+K fold std accuracy: 19.62%
+
+accuracy_list is [0.0, 0.5254, 0.5763, 0.8136, 0.3898, 0.6271, 0.4576, 0.5932, 0.3621, 0.8103]
+K fold average loss: 0.7964133789321959
+K fold max accuracy: 81.36%
+K fold mean accuracy: 51.55%
+K fold std accuracy: 22.51%
+
+
+accuracy_list is [0.0169, 0.5593, 0.5593, 0.7458, 0.5424, 0.4915, 0.4068, 0.5763, 0.2586, 0.7069]
+K fold average loss: 0.7951858701760277
+K fold max accuracy: 74.58%
+K fold mean accuracy: 48.64%
+K fold std accuracy: 20.41%
